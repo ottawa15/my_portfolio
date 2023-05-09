@@ -49,7 +49,7 @@
    <a href="https://drive.google.com/file/d/1po30kEQY8YQTaqZrFCY4mJZhkpjH2A0b/view?usp=share_link"> Расчет метрик </a>
   <a href="https://docs.google.com/spreadsheets/d/14BERMd15lGfbqEqaykuePbSlMUhjvy_C/edit?usp=share_link&ouid=105151305661316276071&rtpof=true&sd=true"> Проект 2 </a>
     
-<p> Выводы (итоги):<p>
+**<p> Выводы (итоги):<p>**
 <ol> Юнит-экономика продукта посчитана, калькулятор юнит-экономики собран, сценарий по настройке параметров для выхода на 25-процентную маржинальность предложен, визуализация создана.
  
 </ol>
