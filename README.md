@@ -69,17 +69,17 @@
 <p> 
  Как решал:
   
- **При решение использовались:**
+**При решение использовались:**
     
-  запросы с условиями CASE WHEN и WHERE;
+ - запросы с условиями CASE WHEN и WHERE;
   
-  агрегирующие функции COUNT, SUM, AVG, MAX, MIN;
+ - агрегирующие функции COUNT, SUM, AVG, MAX, MIN;
   
-  разные типы соединений для таблиц JOIN;
+ - разные типы соединений для таблиц JOIN;
   
-  подзапросы и CTE (common table expression) WITH;
+ - подзапросы и CTE (common table expression) WITH;
   
-  оконные фцнкции с операторами OVER, PARTITION BY, ORDER BY; 
+ - оконные фцнкции с операторами OVER, PARTITION BY, ORDER BY; 
 
 <p>
   
