@@ -44,7 +44,7 @@
 7. Маржинальность
 <p>
 
-> <a href=" https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link">Ссылка на проект 1</a>
+> <a href="https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link"> Ссылка на проект 1</a>
   
   <a href="[https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link)">Ссылка на проект</a>
  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
