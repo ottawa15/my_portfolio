@@ -44,11 +44,11 @@
 7. Маржинальность
 <p>
 
-> <a href="https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link"> Ссылка на проект 1</a>
-  
-  <a href="[https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link)">Ссылка на проект</a>
- (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
- 
+> <a href="https://drive.google.com/file/d/12UwVUDgC13FbbJDPhUpO264Nn5s0R3-f/view?usp=share_link"> Калькулятор юнит-экономики</a>
+  <a href="https://drive.google.com/file/d/1U2FoauPOKmtlxcdQ6UHel6HjtxDQapZm/view?usp=share_link"> Визуализация </a>
+   <a href="https://drive.google.com/file/d/1po30kEQY8YQTaqZrFCY4mJZhkpjH2A0b/view?usp=share_link"> Расчет метрик </a>
+  <a href="https://docs.google.com/spreadsheets/d/14BERMd15lGfbqEqaykuePbSlMUhjvy_C/edit?usp=share_link&ouid=105151305661316276071&rtpof=true&sd=true"> Проект 2 </a>
+    
 <p> Выводы (итоги):<p>
 <ol> Юнит-экономика продукта посчитана, калькулятор юнит-экономики собран, сценарий по настройке параметров для выхода на 25-процентную маржинальность предложен, визуализация создана.
  
