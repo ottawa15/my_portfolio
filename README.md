@@ -77,7 +77,7 @@
 
 <p>
   
-> <a href="https://drive.google.com/drive/folders/1iSmB7q-fJCvcqppuolo8jYaTr2XASQI7?usp=share_link"> Результат, визуализация, код</a>
+> <a href="https://github.com/ottawa15/my_portfolio/commit/19ac0b89ec1882670471fc9c406abe64ab39260d"> Результат, визуализация, код</a>
  
 **<p> Выводы (итоги):<p>**  
 <ol> Изменения балансов посчитаны, таблица создана, визуализация построена, гипотезы выдвинуты.
