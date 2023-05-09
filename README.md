@@ -83,6 +83,9 @@
 
 <p>
   
+> <a href="https://drive.google.com/drive/folders/1iSmB7q-fJCvcqppuolo8jYaTr2XASQI7?usp=share_link"> Результат, визуализация, код</a>
+ 
+  
 </ol>
 
 <br>
