@@ -122,6 +122,6 @@
   <br>
 
 ## Контактная информация
-- Email: ss.github1551@mail.ru
+- Email: sergey_smirnov1551@mail.ru
 
 
